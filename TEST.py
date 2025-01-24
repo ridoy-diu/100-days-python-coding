@@ -14,3 +14,5 @@
 
 # name = "Ridoy"
 # print(name[0])
+
+print(-2%26)
