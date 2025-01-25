@@ -37,3 +37,17 @@ for key in student_scores:
 
 print(student_scores)
 print(student_grades)
+
+# [] list
+# {} dictionary
+
+# nested list, dictionary
+travel_log = {
+    "France": ["Paris", "Lille", "Dijon"],
+    "Bangladesh": ["Dhaka", "Rajshahi", "Sylhet"]
+}
+
+print(travel_log["France"][1])
+
+nested_list = [1, 2, [3, 4]]
+print(nested_list[2][1])
